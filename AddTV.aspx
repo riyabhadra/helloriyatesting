@@ -35,18 +35,7 @@
                 <br />
                 <div class="row">
                     <div class="col-sm-12">
-                      <div class="col-sm-4">
-                            <div class="col-sm-4 DrpdwnLbl">
-                                Select Category :
-                            </div>
-                            <div class="col-sm-6 DrpdwnLbl">
-                                  <select id="ddlCategories" class = "DrpDwn">
-                                   </select>        
-                               <%-- <asp:DropDownList ID="DropDownList1" runat="server" CssClass="DrpDwn">--%>
-                                  <%--  <asp:ListItem>choose an item...</asp:ListItem>--%>
-                               <%-- </asp:DropDownList>--%>
-                            </div>
-                        </div>
+                      
                         <div class="col-sm-4">
                             <div class="col-sm-5 DrpdwnLbl">
                                 Select Sub Category :

@@ -30,7 +30,7 @@
                 <p class="HeadCenter">Add Television</p>
             </div>
             <div class="bodyTopMargin">
-                <div class="headingClass"></div>
+                
                 <br />
                 <br />
                 <div class="row">
